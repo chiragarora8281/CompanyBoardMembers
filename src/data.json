@@ -1,0 +1,56 @@
+[
+  {
+    "eName": "chandler Bing",
+    "designation": "CEO",
+    "image": "https://m.timesofindia.com/photo/104796322/104796322.jpg",
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Error alias qui ut ipsam!"
+  },
+  {
+    "eName": "Joey tribiaani",
+    "designation": "Co-Founder",
+    "image": "https://i.pinimg.com/736x/63/75/e1/6375e1c986179fd53f439b2692e47a10.jpg",
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Error alias qui ut ipsam!"
+  },
+  {
+    "eName": "Rachel green",
+    "designation": "CEO",
+    "image": "https://store.adveits.com/project/malex/react-js/demo/assets/img/demo/05_img.jpg",
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Error alias qui ut ipsam!"
+  },
+  {
+    "eName": "Ross Geller",
+    "designation": "CTO",
+    "image": "https://images.hellomagazine.com/horizon/square/cf1d7bee57c6-david-schwimmer.jpg",
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Error alias qui ut ipsam!"
+  },
+  {
+    "eName": "Phobey",
+    "designation": "Board Member",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Lisa_Kudrow_at_TIFF_2009.jpg/330px-Lisa_Kudrow_at_TIFF_2009.jpg",
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Error alias qui ut ipsam!"
+  },
+  {
+    "eName": "monica Geller",
+    "designation": "Advisor",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTA4OTczNDExNDNeQTJeQWpwZ15BbWU3MDUyNTIzMTM@._V1_FMjpg_UX1000_.jpg",
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Error alias qui ut ipsam!"
+  },
+  {
+    "eName": "paul rodd",
+    "designation": "marketing Head",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTY4NTEwNDg1MV5BMl5BanBnXkFtZTgwODMwMDA0ODE@._V1_.jpg",
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Error alias qui ut ipsam!"
+  },
+  {
+    "eName": "Thomas Shelby",
+    "designation": "Technical Head",
+    "image": "https://blenderartists.org/uploads/default/original/4X/c/9/f/c9f226a51ae12aa48277b746ace9c83b8007d79f.jpeg",
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Error alias qui ut ipsam!"
+  },
+  {
+    "eName": "walter white",
+    "designation": "Chemist",
+    "image": "https://t0.gstatic.com/images?q=tbn:ANd9GcR6cPDgGreceok_RamP-HE_q8cfSsYvuBbPfk0D4ESOiDr8f3uUH2gQAFu8V4VSVqAMy-dp",
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Error alias qui ut ipsam!"
+  }
+]
